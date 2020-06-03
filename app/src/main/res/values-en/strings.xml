@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accueilMess">Welcome, what\'s your name ?</string>
+    <string name="inputMess">Please, tap your name</string>
+</resources>

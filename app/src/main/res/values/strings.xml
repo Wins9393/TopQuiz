@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WinsQuiz</string>
+    <string name="accueilMess">Bienvenue, quel est votre nom ?</string>
+    <string name="inputMess">Merci d\'entrer votre nom</string>
+
+    <string name="question1">Jusqu\'au XVIIIe siècle, le champagne était une boisson décriée. Pourquoi ?</string>
+    <string name="reponse1_1">On pensait qu\'il s\'agissait d\'un mauvais vin.</string>
+    <string name="reponse1_2">On croyait que les bulles étaient l\'oeuvre du diable.</string>
+    <string name="reponse1_3">Boire un verre de champagne après un verre de vin blanc était supposé porter malheur.</string>
+    <string name="reponse1_4">Le fils de Philippe III était mort en buvant un verre de champagne.</string>
+</resources>
